@@ -3,8 +3,7 @@
 <img width="769" height="386" alt="image" src="https://github.com/user-attachments/assets/d1e8756f-3ead-40b6-9f5b-cf5a0b4e1fbb" />
 (WITH LINUX)
 
-<img width="576" height="611" alt="image" src="https://github.com/user-attachments/assets/5b2ad312-623b-4eea-aa56-ee9f3ea2ed5b" />          <img width="643" height="520" alt="image" src="https://github.com/user-attachments/assets/af931787-f478-4260-95a3-3922a86a470b" />
-
+<img width="576" height="611" alt="image" src="https://github.com/user-attachments/assets/5b2ad312-623b-4eea-aa56-ee9f3ea2ed5b" />          
 
 Bu proje, **POSIX sistem çağrılarını** kullanarak geliştirilmiş, eşzamanlı (concurrent) süreç yönetimini ve senkronizasyon tekniklerini temel alan bir bankacılık simülasyonudur. Sistem, birden fazla finansal işlemin aynı anda, veri tutarlılığını bozmadan nasıl yönetileceğini uygulamalı olarak gösterir.
 
